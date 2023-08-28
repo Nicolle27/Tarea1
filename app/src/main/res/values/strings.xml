@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string-array name="carreras_fia">
+        <item>Ingenieria de Sistemas</item>
+        <item>Ingenieria Ambiental</item>
+        <item>Arquitectura</item>
+        <item>Ingenieria Civil</item>
+
+        <!-- Agrega más carreras para FIA -->
+    </string-array>
+
+    <string-array name="carreras_fcs">
+        <item>Medicina</item>
+        <item>Enfermeria</item>
+        <item>Nutrición</item>
+        <item>Psicologia</item>
+
+        <!-- Agrega más carreras para FACHED -->
+    </string-array>
+
+    <string-array name="carreras_fachied">
+        <item>Primaria</item>
+        <item>Inicial</item>
+        <item>Linguistica</item>
+        <!-- Agrega más carreras para FACHED -->
+    </string-array>
+</resources>
